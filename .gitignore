@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.db
+
+# Environment
+.env
+backend/.env
+.env.local
+.env.*.local
+
+# Backend
+backend/app/__pycache__/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Exports (generated reports)
+exports/*.pdf
+exports/*.xlsx
+exports/*.csv
+
+# Stray nested repository metadata
+360-degree-news-Scrapping_/
+
+# Logs
+*.log
+logs/

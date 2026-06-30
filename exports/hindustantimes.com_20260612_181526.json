@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.hindustantimes.com/",
+  "domain": "hindustantimes.com",
+  "scraped_at": "2026-06-12T18:15:26.783061",
+  "total": 5,
+  "articles": [
+    {
+      "title": "A year after AI-171 crash, AAIB says final report making ‘significant progress’",
+      "url": "https://www.hindustantimes.com/india-news/one-year-after-ai-171-crash-aaib-final-report-making-significant-progress-evidence-under-analysis-air-india-boeing-101781267201726.html",
+      "sentiment": "neutral",
+      "score": 0.0976,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "'Insensitive': KEM hospital on Dr Sejal Pawar's remarks on Pranit More show",
+      "url": "https://www.hindustantimes.com/india-news/insensitive-kem-hospital-reacts-to-sejal-pawars-remarks-on-pranit-more-show-to-decide-action-after-meeting-parents-101781265458722.html",
+      "sentiment": "positive",
+      "score": 0.1462,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "India summons US envoy again, issues ‘strong protest’ over ship attacks",
+      "url": "https://www.hindustantimes.com/world-news/india-lodges-strong-protest-with-us-over-attacks-on-indian-crewed-ships-envoy-summoned-again-101781255940451.html",
+      "sentiment": "neutral",
+      "score": 0.0738,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack; Social Unrest: protest",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Underworld link, no consent: Why Salman Khan moved court over ‘Kala Hiran’ film",
+      "url": "https://www.hindustantimes.com/india-news/connection-with-underworld-no-consent-why-salman-khan-moved-court-against-makers-of-kala-hiran-film-101781261930099.html",
+      "sentiment": "positive",
+      "score": 0.113,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: attack; Social Unrest: protest; Mental Health: exploit",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Iran shares big update on US peace deal, Strait of Hormuz control clause | LIVE",
+      "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-trump-tehran-peace-deal-strait-of-hormuz-middle-east-strikes-explosion-uae-saudi-kuwait-101781225164357.html",
+      "sentiment": "positive",
+      "score": 0.122,
+      "is_harmful": true,
+      "harm_reason": "Social Unrest: protest; Public Safety: terror",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    }
+  ]
+}

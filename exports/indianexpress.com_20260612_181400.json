@@ -1,0 +1,63 @@
+{
+  "source_url": "https://indianexpress.com/",
+  "domain": "indianexpress.com",
+  "scraped_at": "2026-06-12T18:14:00.262707",
+  "total": 5,
+  "articles": [
+    {
+      "title": "Air India crash probe still on: Aviation Minister on one-year anniversary",
+      "url": "https://indianexpress.com/article/business/air-india-ai171-crash-investigation-delay-boeing-787-10736690/",
+      "sentiment": "neutral",
+      "score": 0.0155,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "India summons US diplomat second time in 2 days over strike on tanker",
+      "url": "https://indianexpress.com/article/india/us-attack-on-the-ship-indian-crew-oman-coast-diplomats-summoned-10736356/",
+      "sentiment": "neutral",
+      "score": 0.0327,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack; Social Unrest: protest",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Mahua Moitra interview: ‘When people like Saayoni turn, who do you trust?’",
+      "url": "https://indianexpress.com/article/political-pulse/mahua-moitra-interview-when-people-like-saayoni-turn-who-do-you-trust-its-very-upsetting-10735573/",
+      "sentiment": "neutral",
+      "score": -0.0607,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "How Trinamool split may alter Parliament arithmetic, deliver a win to BJP",
+      "url": "https://indianexpress.com/article/political-pulse/tmc-split-alter-parliament-arithmetic-strengthen-nda-hand-10735565/",
+      "sentiment": "neutral",
+      "score": 0.0303,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Trump credits Pakistan for helping avert US strikes on Iran: ‘A break at their request’",
+      "url": "https://indianexpress.com/article/world/trump-pakistan-role-us-iran-talks-tehran-us-war-10736507/",
+      "sentiment": "positive",
+      "score": 0.1129,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack, bomb",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    }
+  ]
+}

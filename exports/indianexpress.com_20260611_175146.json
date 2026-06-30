@@ -1,0 +1,168 @@
+{
+  "source_url": "https://indianexpress.com/",
+  "domain": "indianexpress.com",
+  "scraped_at": "2026-06-11T17:51:46.941596",
+  "total": 20,
+  "articles": [
+    {
+      "title": "Another Mamata loyalist: ‘She must address concerns about Abhishek’s high-handedness’",
+      "url": "https://indianexpress.com/article/political-pulse/sougata-roy-tmc-crisis-mamata-banerjee-10734810/",
+      "sentiment": "neutral",
+      "score": -0.0091,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "Indian sailor’s last call with family: ‘We got two warnings from the US Navy’",
+      "url": "https://indianexpress.com/article/india/mt-settebello-us-strike-seafarer-phone-call-family-navy-10734380/",
+      "sentiment": "neutral",
+      "score": -0.0152,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack"
+    },
+    {
+      "title": "‘Homemakers are nation builders’: Supreme Court sets Rs 30,000 monthly income",
+      "url": "https://indianexpress.com/article/legal-news/supreme-court-homemaker-compensation-rs-30000-income-ruling-10734775/",
+      "sentiment": "positive",
+      "score": 0.1361,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "FIFA World Cup 2026: Where futbol meets soccer at the end of the world",
+      "url": "https://indianexpress.com/article/sports/football/fifa-world-cup-2026-where-futbol-meets-soccer-at-the-end-of-the-world-10733952/",
+      "sentiment": "positive",
+      "score": 0.1537,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack"
+    },
+    {
+      "title": "Main Vaapas Aaunga review: An uneven but astounding take on Partition trauma",
+      "url": "https://indianexpress.com/article/entertainment/movie-review/main-vaapas-aaunga-movie-review-diljit-dosanjh-partition-trauma-vedang-raina-sharvari-imtiaz-ali-film-10734466/",
+      "sentiment": "neutral",
+      "score": 0.0899,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: violence; Hate Discrimination: communal"
+    },
+    {
+      "title": "Dead members dining, drone over PM house: What's on the 'Delhi Gymkhana files'",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-gymkhana-files-dead-members-dining-drone-over-vip-zone-crores-in-legal-fees-auditor-exit-10733871/",
+      "sentiment": "neutral",
+      "score": 0.0498,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "PremiumOpenAI, Anthropic, SpaceX IPOs: Are valuations fair, can Indians invest?",
+      "url": "https://indianexpress.com/article/explained/explained-economics/openai-anthropic-spacex-ipo-ai-india-how-to-invest-10731833/",
+      "sentiment": "neutral",
+      "score": 0.0823,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "PremiumIndia’s economic story is of transition. Challenges exist, but strengths too",
+      "url": "https://indianexpress.com/article/opinion/columns/indias-economic-story-transition-fdi-bits-surjit-bhalla-10733272/",
+      "sentiment": "neutral",
+      "score": 0.0989,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "PremiumRecord remittances helped India in FY26, but this is no long-term fix",
+      "url": "https://indianexpress.com/article/explained/explained-economics/remittances-india-finances-fy26-no-long-term-fix-10733712/",
+      "sentiment": "neutral",
+      "score": 0.0803,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "PremiumAir India pilot lost licence, job and marriage. 15-year fight ends in win",
+      "url": "https://indianexpress.com/article/cities/mumbai/got-my-dignity-back-air-india-pilot-lost-job-marriage-waiting-15-years-for-justice-then-bombay-high-court-restored-his-licence-10732129/",
+      "sentiment": "neutral",
+      "score": 0.0447,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "After Samay Raina, Rs 370-biryani raises the same question about punishment",
+      "url": "https://indianexpress.com/article/fresh-take/rs-370-biryani-row-pranit-more-samay-raina-misogyny-cancel-culture-india-10734595/",
+      "sentiment": "positive",
+      "score": 0.174,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "‘We were called ‘chor’ because of him’: TMC MP targets Abhishek Banerjee",
+      "url": "https://indianexpress.com/article/political-pulse/kalyan-banerjee-abhishek-us-dare-to-mamata-banerjee-tmc-meltdown-10734606/",
+      "sentiment": "neutral",
+      "score": -0.0083,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "US forces fired missiles at vessel with Indian crew to disable it, says Central Command",
+      "url": "https://indianexpress.com/article/world/us-israel-iran-war-news-live-updates-tehran-trump-bases-kuwait-bahrain-jordan-10733994/",
+      "sentiment": "neutral",
+      "score": -0.0263,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack; Social Unrest: protest"
+    },
+    {
+      "title": "Why India are moving towards a Hardik Pandya vs Nitish Kumar Reddy debate",
+      "url": "https://indianexpress.com/article/sports/cricket/india-moving-towrads-hardik-pandya-vs-nitish-reddy-ind-vs-afg-10734798/",
+      "sentiment": "neutral",
+      "score": 0.0455,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "Mamata Banerjee stood by me, won’t leave in her difficult time: Shatrughan Sinha",
+      "url": "https://indianexpress.com/article/cities/kolkata/shatrughan-sinha-tmc-rebel-group-mamata-banerjee-pm-modi-post-10734833/",
+      "sentiment": "neutral",
+      "score": 0.0049,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack"
+    },
+    {
+      "title": "Belfast anti-immigration riots enter Day 2; victim's family pleads for calm",
+      "url": "https://indianexpress.com/article/world/belfast-anti-immigration-protests-hadi-alodid-stephen-ogilvie-knife-attack-northern-ireland-riots-10734462/",
+      "sentiment": "neutral",
+      "score": -0.0055,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, murder, attack, violence; Social Unrest: riot, protest"
+    },
+    {
+      "title": "Half of young Indians may have fatty liver, reveals new study",
+      "url": "https://indianexpress.com/article/health-wellness/fatty-liver-young-indians-liver-donor-study-surgeon-10734022/",
+      "sentiment": "neutral",
+      "score": 0.0466,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "Wedding album, video undelivered, couple wins Rs 25,000 payout for ‘mental stress’",
+      "url": "https://indianexpress.com/article/legal-news/wedding-lifetime-couple-paid-album-never-arrived-awarded-rs-25000-10734231/",
+      "sentiment": "neutral",
+      "score": 0.072,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "Why Most High-Income Earners Remain Underinsured Against Income Loss",
+      "url": "https://indianexpress.com/article/business/sponsored-business/why-most-high-income-earners-remain-underinsured-against-income-loss-10712481/",
+      "sentiment": "positive",
+      "score": 0.1009,
+      "is_harmful": false,
+      "harm_reason": ""
+    },
+    {
+      "title": "‘Gangsters using social media to build influence’: Bengaluru police seek removal of 1,500 accounts, 1,000 reels",
+      "url": "https://indianexpress.com/article/cities/bangalore/gangsters-using-social-media-to-build-influence-bengaluru-police-seek-removal-of-1500-accounts-1000-reels-10734906/",
+      "sentiment": "neutral",
+      "score": 0.0354,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack"
+    }
+  ]
+}

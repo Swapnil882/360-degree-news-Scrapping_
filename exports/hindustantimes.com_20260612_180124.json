@@ -1,0 +1,228 @@
+{
+  "source_url": "https://www.hindustantimes.com/",
+  "domain": "hindustantimes.com",
+  "scraped_at": "2026-06-12T18:01:24.614087",
+  "total": 20,
+  "articles": [
+    {
+      "title": "'Insensitive': KEM hospital on Dr Sejal Pawar's remarks on Pranit More show",
+      "url": "https://www.hindustantimes.com/india-news/insensitive-kem-hospital-reacts-to-sejal-pawars-remarks-on-pranit-more-show-to-decide-action-after-meeting-parents-101781265458722.html",
+      "sentiment": "positive",
+      "score": 0.1451,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "India summons US envoy again, issues ‘strong protest’ over ship attacks",
+      "url": "https://www.hindustantimes.com/world-news/india-lodges-strong-protest-with-us-over-attacks-on-indian-crewed-ships-envoy-summoned-again-101781255940451.html",
+      "sentiment": "neutral",
+      "score": 0.0738,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack; Social Unrest: protest",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Underworld link, no consent: Why Salman Khan moved court over ‘Kala Hiran’ film",
+      "url": "https://www.hindustantimes.com/india-news/connection-with-underworld-no-consent-why-salman-khan-moved-court-against-makers-of-kala-hiran-film-101781261930099.html",
+      "sentiment": "positive",
+      "score": 0.113,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: attack; Social Unrest: protest; Mental Health: exploit",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "‘Please find my brother’: The hour I spent with lone survivor of Air India crash",
+      "url": "https://www.hindustantimes.com/india-news/please-find-brother-on-day-of-air-india-plane-ai-171-crash-hour-i-spent-with-only-survivor-vishwash-kumar-ramesh-101781250870101.html",
+      "sentiment": "neutral",
+      "score": 0.0604,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, bomb",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Iran shares big update on US peace deal, Strait of Hormuz control clause | LIVE",
+      "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-trump-tehran-peace-deal-strait-of-hormuz-middle-east-strikes-explosion-uae-saudi-kuwait-101781225164357.html",
+      "sentiment": "positive",
+      "score": 0.1312,
+      "is_harmful": true,
+      "harm_reason": "Social Unrest: protest; Public Safety: terror",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Why SC refused to entertain Natarajan’s challenge to RS nomination rejection",
+      "url": "https://www.hindustantimes.com/india-news/sc-cites-art-329-dismisses-natarajan-s-petition-against-rs-nomination-rejection-101781260616736.html",
+      "sentiment": "neutral",
+      "score": 0.0933,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Why Sensex suddenly shot up by nearly 1,700 points today? Explained",
+      "url": "https://www.hindustantimes.com/business/why-sensex-today-suddenly-shoot-up-by-nearly-1-700-points-us-iran-war-trump-nifty-101781259937061.html",
+      "sentiment": "neutral",
+      "score": 0.0506,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Suvendu Adhikari to meet rebel TMC MPs on Sunday in Delhi amid NDA support buzz",
+      "url": "https://www.hindustantimes.com/india-news/tmc-crisis-live-updates-bengal-trinamool-congress-rebel-mp-rajya-sabha-mamata-abhishek-kalyan-banerjee-saayoni-ghosh-101781237283974.html",
+      "sentiment": "positive",
+      "score": 0.1002,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Kane Williamson retires from international cricket with immediate effect",
+      "url": "https://www.hindustantimes.com/cricket/kane-williamson-announces-retirement-from-international-cricket-effective-immediately-101781258697632.html",
+      "sentiment": "neutral",
+      "score": 0.0764,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "KEM Hospital orders inquiry against MBBS student over remarks about male corpse",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/kem-hospital-orders-inquiry-against-mbbs-student-sejal-pawar-over-remarks-about-male-corpse-on-pranit-mores-show-101781261595991.html",
+      "sentiment": "positive",
+      "score": 0.1182,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Priya Kapur, Rani Kapur put aside feud on Sunjay Kapur's death anniversary",
+      "url": "https://www.hindustantimes.com/entertainment/others/priya-kapur-posts-joint-note-with-rani-kapur-on-sunjay-kapurs-death-anniversary-amid-inheritance-dispute-mediation-101781263518394.html",
+      "sentiment": "positive",
+      "score": 0.1775,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Doctor shares symptoms people commonly ignore before a hypertension diagnosis",
+      "url": "https://www.hindustantimes.com/lifestyle/health/mumbai-doctor-shares-the-symptoms-people-commonly-ignore-before-receiving-a-hypertension-diagnosis-101781263742749.html",
+      "sentiment": "neutral",
+      "score": 0.0673,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "She spent₹40L on ISB MBA — but now doesn’t worry about the corporate ladder",
+      "url": "https://www.hindustantimes.com/trending/she-spent-40-lakh-on-isb-mba-but-now-doesn-t-worry-about-climbing-the-corporate-ladder-101781254947614.html",
+      "sentiment": "neutral",
+      "score": 0.08,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 70.0,
+      "trust_classification": "Unverified",
+      "fake_reason": "Sensationalist keywords found: exposed"
+    },
+    {
+      "title": "People’s champion Kane Williamson showed nice men can finish first",
+      "url": "https://www.hindustantimes.com/cricket/peoples-champion-kane-williamson-showed-nice-men-can-finish-first-his-retirement-leaves-a-void-far-beyond-nz-cricket-101781262054007.html",
+      "sentiment": "positive",
+      "score": 0.1299,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: kill, attack; Mental Health: exploit",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Williamson retires as NZ greatest batter, closing the book on a golden era",
+      "url": "https://www.hindustantimes.com/cricket/kane-williamson-retires-as-new-zealand-greatest-batter-closing-the-book-on-a-golden-era-records-that-define-his-legacy-101781263800851.html",
+      "sentiment": "positive",
+      "score": 0.2187,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "'India could lose Sooryavanshi': Dale Steyn warns after Sachin-Kohli comparison",
+      "url": "https://www.hindustantimes.com/cricket/india-could-lose-vaibhav-sooryavanshi-dale-steyns-warning-as-he-places-whiz-kid-above-sachin-tendulkar-virat-kohli-101781247826098.html",
+      "sentiment": "positive",
+      "score": 0.1599,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Sooryavanshi's batting has 'depth', says Manjrekar; backs him to conquer ODIs",
+      "url": "https://www.hindustantimes.com/cricket/vaibhav-sooryavanshis-batting-has-depth-says-manjrekar-backs-him-to-conquer-odis-he-can-be-a-50-over-phenomenon-101781260527267.html",
+      "sentiment": "positive",
+      "score": 0.2194,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: attack; Mental Health: exploit",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "ICC finalise dates for 2027 ODI World Cup; old format also returns",
+      "url": "https://www.hindustantimes.com/cricket/icc-finalise-dates-for-2027-odi-world-cup-old-format-also-returns-with-competition-going-back-to-14-teams-101781229806721.html",
+      "sentiment": "neutral",
+      "score": 0.0499,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Nam Joo Hyuk set for K-drama comeback after 3 years: Everything we know so far",
+      "url": "https://www.hindustantimes.com/entertainment/web-series/nam-joo-hyuk-set-for-kdrama-comeback-after-3-years-everything-we-know-about-netflix-fantasy-thriller-the-east-palace-101781261073149.html",
+      "sentiment": "neutral",
+      "score": 0.0358,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 70.0,
+      "trust_classification": "Unverified",
+      "fake_reason": "Sensationalist keywords found: conspiracy"
+    },
+    {
+      "title": "Akshay Kumar saves a gorilla at Welcome To The Jungle trailer launch; watch",
+      "url": "https://www.hindustantimes.com/htcity/cinema/akshay-kumar-comes-to-the-rescue-of-a-man-dressed-as-a-gorilla-at-welcome-to-the-jungle-trailer-launch-watch-101781261661915.html",
+      "sentiment": "positive",
+      "score": 0.2719,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    }
+  ]
+}

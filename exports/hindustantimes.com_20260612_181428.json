@@ -1,0 +1,63 @@
+{
+  "source_url": "https://www.hindustantimes.com/india-news/insensitive-kem-hospital-reacts-to-sejal-pawars-remarks-on-pranit-more-show-to-decide-action-after-meeting-parents-101781265458722.html",
+  "domain": "hindustantimes.com",
+  "scraped_at": "2026-06-12T18:14:28.979617",
+  "total": 5,
+  "articles": [
+    {
+      "title": "KEM Hospital orders inquiry against MBBS student Sejal Pawar over remarks about male corpse on Pranit More's show",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/kem-hospital-orders-inquiry-against-mbbs-student-sejal-pawar-over-remarks-about-male-corpse-on-pranit-mores-show-101781261595991.html",
+      "sentiment": "positive",
+      "score": 0.1182,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Pranit More under Maharashtra cyber police lens over '₹370 biryani' remark on show, case registered",
+      "url": "https://www.hindustantimes.com/india-news/maharashtra-cyber-police-register-case-against-stand-up-comedian-pranit-more-over-370-biryani-remark-101781184148379.html",
+      "sentiment": "positive",
+      "score": 0.1784,
+      "is_harmful": true,
+      "harm_reason": "Violence Incitement: attack, violence",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Medics seek action for female doctor's joke on male corpses during Pranit More's show: 'Mocking unacceptable'",
+      "url": "https://www.hindustantimes.com/india-news/pranit-more-show-joke-female-doctor-male-corpses-private-parts-medical-association-slams-unacceptable-sejal-pawar-101781244235325.html",
+      "sentiment": "positive",
+      "score": 0.1266,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Shreyas Iyer rents luxury apartment",
+      "url": "https://www.hindustantimes.com/real-estate/shreyas-iyer-rents-3-875-sq-ft-luxury-apartment-in-mumbais-worli-for-three-years-at-a-total-rent-of-rs-7-14-crore-101781175246163.html",
+      "sentiment": "neutral",
+      "score": 0.0792,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    },
+    {
+      "title": "Karisma Kapoor’s Brown comeback",
+      "url": "https://www.hindustantimes.com/entertainment/web-series/karisma-kapoor-brown-comeback-came-with-pressure-she-learned-to-smoke-for-role-says-writer-mayukh-ghosh-zee5-101781178926798.html",
+      "sentiment": "neutral",
+      "score": 0.0326,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 85.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Meets basic credibility baseline criteria."
+    }
+  ]
+}

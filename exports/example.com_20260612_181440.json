@@ -1,0 +1,19 @@
+{
+  "source_url": "https://example.com",
+  "domain": "example.com",
+  "scraped_at": "2026-06-12T18:14:40.649614",
+  "total": 1,
+  "articles": [
+    {
+      "title": "Example Domain",
+      "url": "https://example.com",
+      "sentiment": "positive",
+      "score": 0.5,
+      "is_harmful": false,
+      "harm_reason": "",
+      "trust_score": 80.0,
+      "trust_classification": "Credible",
+      "fake_reason": "Non-standard title length"
+    }
+  ]
+}
