@@ -33,10 +33,12 @@ backend/.env
 # Backend
 backend/app/__pycache__/
 
-# Frontend
-frontend/node_modules/
-frontend/dist/
-frontend/.vite/
+# Frontend / Node
+node_modules/
+dist/
+.vite/
+.eslintcache
+.cache/
 
 # IDE
 .vscode/
@@ -65,3 +67,11 @@ exports/*.csv
 # Logs
 *.log
 logs/
+
+# Miscellaneous Caches & Backups
+.python-version
+.ipynb_checkpoints/
+*.bak
+*.backup
+.env.bak
+.env.backup
