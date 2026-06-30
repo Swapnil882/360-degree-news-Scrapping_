@@ -24,11 +24,10 @@ def get_stats(user: User = Depends(get_current_user), db: Session = Depends(get_
         users = 0
 
     sentiment_counts = {}
-    sentiment_data = (
-        db.query(ScrapedNews.sentiment, func.count(ScrapedNews.id))
-        .group_by(ScrapedNews.sentiment)
-        .all()
-    )
+    sentiment_query = db.query(ScrapedNews.sentiment, func.count(ScrapedNews.id))
+    if not user.is_staff:
+        sentiment_query = sentiment_query.filter(ScrapedNews.user_id == user.id)
+    sentiment_data = sentiment_query.group_by(ScrapedNews.sentiment).all()
     for s, c in sentiment_data:
         sentiment_counts[s] = c
 

@@ -140,6 +140,7 @@ class ApiTestCase(unittest.TestCase):
         self.assertEqual(stats["total_articles"], 1)
         self.assertEqual(stats["harmful_count"], 1)
         self.assertEqual(stats["pending_alerts"], 1)
+        self.assertEqual(stats["sentiment_counts"], [0, 1, 0])
 
     def test_source_crud_requires_auth_and_updates_fields(self):
         self.create_user()
